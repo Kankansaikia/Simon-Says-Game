@@ -34,18 +34,6 @@ This game challenges players to remember and repeat an increasing sequence of co
 
 ---
 
-##  Project Structure
-simon-says-game/
-│
-├── index.html # Game layout
-├── style.css # Styling and animations
-├── app.js # Game logic
-└── README.md # Project documentation
-
-
-
----
-
 ##  How to Run the Project
 
 1. Clone the repository:
